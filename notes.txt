@@ -1,0 +1,53 @@
+question url:
+
+/questions?rqid=<question id>
+
+answering: POST
+answers:1 <- your answer. starts from 1
+matchanswers:1 <- their answer. starts from 1
+
+Question answering form
+ajax:1
+submit:1
+answer_question:1
+skip:0
+show_all:0
+targetid:5205714976297994003
+qid:60100
+is_new:1
+answers:1   <- my answer
+matchanswers:1  <- acceptable answer
+importance:4
+is_public:1
+note:
+delete_note:0
+
+ajax:1
+submit:1
+answer_question:1
+skip:0
+show_all:0
+targetid:5205714976297994003
+qid:16053
+is_new:1
+answers:2
+matchanswers:3
+importance:1  <- 1 is very important
+is_public:1
+note:
+delete_note:0
+
+ajax:1
+submit:1
+answer_question:1
+skip:0
+show_all:0
+targetid:5205714976297994003
+qid:48
+is_new:1
+answers:1
+matchanswers:1
+importance:3 <- somewhat
+is_public:1
+note:
+delete_note:0
